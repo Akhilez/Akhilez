@@ -9,7 +9,7 @@
 <img align="left" height="24px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/flutter.png" />
 <img align="left" height="20px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/AWS.png" />
 
-<br/>
+<br/><br/>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Akhilez&count_private=true&show_icons=true&cache_seconds=86400&hide_title=true)](https://akhil.ai/)
 
