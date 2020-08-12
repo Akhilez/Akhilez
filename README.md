@@ -13,7 +13,9 @@
 <img align="center" height="24px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/flutter.png" />  
 <img align="center" height="20px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/AWS.png" />  
 </div>  
-</p> 
+</p>
+
+<br/>
 
 <a href="https://akhil.ai/">
   <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api?username=Akhilez&count_private=true&show_icons=true&cache_seconds=86400&hide_title=true" />
