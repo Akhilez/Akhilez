@@ -1,20 +1,19 @@
 <img alt="AKLogo" width="250px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/AK_Logo.png" />
-<br/>
-
-- pytorch
-- tensorflow
-- django
-- react
-- flutter
-- aws
-
-<img width="26px" src="https://github.com/Akhilez/Akhilez/master/icons/pytorch.jpg" />
 
 <br/>
 
-[<img height="22px" src="https://github.com/Akhilez/Akhilez/master/icons/AK.svg" />](https://akhil.ai/)
-[<img height="22px" src="https://github.com/Akhilez/Akhilez/master/icons/LinkedIn.png" />](https://akhil.ai/)
+[<img height="22px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/AK.svg" />](https://akhil.ai/)
+[<img height="22px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/LinkedIn.png" />](https://www.linkedin.com/in/akhilez/)
 [<img height="22px" src="https://raw.githubusercontent.com/Akhilez/ml_gallery/master/ml_js/src/landing/ml_logo/ml_logo.png" />](https://akhil.ai/gallery)
+
+<br/>
+
+<img height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/pytorch.png" />
+<img height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/tensorflow.png" />
+<img height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/django.jpg" />
+<img height="30px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/react.webp" />
+<img height="24px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/flutter.png" />
+<img height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/AWS.png" />
 
 <br/>
 
