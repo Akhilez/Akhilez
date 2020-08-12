@@ -2,12 +2,14 @@
 
 <br/>
 
+<div>
 <img align="left" height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/pytorch.png" />
 <img align="left" height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/tensorflow.png" />
 <img align="left" height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/django.jpg" />
 <img align="left" height="30px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/react.webp" />
 <img align="left" height="24px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/flutter.png" />
 <img align="left" height="20px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/AWS.png" />
+</div>
 
 <br/><br/>
 
