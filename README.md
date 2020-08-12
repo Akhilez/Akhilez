@@ -18,8 +18,8 @@
 <br/>
 
 <a href="https://akhil.ai/">
-  <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api?username=Akhilez&count_private=true&show_icons=true&cache_seconds=86400&hide_title=true" />
+  <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=Akhilez&count_private=true&show_icons=true&cache_seconds=86400&hide_title=true" />
 </a>
 <a href="https://akhil.ai/">
-  <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilez&layout=compact" />
+  <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilez&layout=compact" />
 </a>
