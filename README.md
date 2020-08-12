@@ -1,22 +1,23 @@
-<p align="center">
+  <p align="center">
 
-[<img alt="AKLogo" width="200px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/AK_Logo.png" />](https://akhil.ai/)
+  </p>
+  <p align="center">
+  <a href="https://akhil.ai/">
+ <img width="200px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/AK_Logo.png" align="center" alt="GitHub Readme Stats" />
+ </a>
+ <div align="center">  
+<img  align="center" height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/pytorch.png" />  
+<img align="center" height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/tensorflow.png" />  
+<img align="center" height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/django.jpg" />  
+<img align="center" height="30px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/react.webp" />  
+<img align="center" height="24px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/flutter.png" />  
+<img align="center" height="20px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/AWS.png" />  
+</div>  
+</p> 
 
-<br/>
-
-<div>
-<img align="left" height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/pytorch.png" />
-<img align="left" height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/tensorflow.png" />
-<img align="left" height="26px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/django.jpg" />
-<img align="left" height="30px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/react.webp" />
-<img align="left" height="24px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/flutter.png" />
-<img align="left" height="20px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/icons/AWS.png" />
-</div>
-
-<br/><br/>
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=Akhilez&count_private=true&show_icons=true&cache_seconds=86400&hide_title=true)](https://akhil.ai/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilez&layout=compact)](https://akhil.ai/)
-
-</p>
+<a href="https://akhil.ai/">
+  <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api?username=Akhilez&count_private=true&show_icons=true&cache_seconds=86400&hide_title=true" />
+</a>
+<a href="https://akhil.ai/">
+  <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilez&layout=compact" />
+</a>
