@@ -1,4 +1,4 @@
-[<img alt="AKLogo" width="250px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/AK_Logo.png" />](https://akhil.ai/)
+[<img alt="AKLogo" width="200px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/AK_Logo.png" />](https://akhil.ai/)
 
 <br/>
 
