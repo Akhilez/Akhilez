@@ -1,3 +1,6 @@
+<div style="display: flex; justify-content: center">
+
+
 [<img alt="AKLogo" width="200px" src="https://raw.githubusercontent.com/Akhilez/Akhilez/master/AK_Logo.png" />](https://akhil.ai/)
 
 <br/>
@@ -17,3 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilez&layout=compact)](https://akhil.ai/)
 
+</div>
